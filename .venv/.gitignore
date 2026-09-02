@@ -1,0 +1,13 @@
+# Python
+.venv/
+venv/
+*.pyc
+__pycache__/
+
+# JetBrains IDE (PyCharm, IntelliJ)
+.idea/
+*.iml
+
+# Java
+target/
+*.class
