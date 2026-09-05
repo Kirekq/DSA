@@ -20,7 +20,6 @@ public class A {
         Scanner scanner = new Scanner(System.in);
         if (!scanner.hasNextLine()) return;
 
-        // ВВОД
         String line = scanner.nextLine();
         String[] strNums = line.split("\\s+");
         int[] arr = new int[strNums.length];
